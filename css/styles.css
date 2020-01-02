@@ -1,0 +1,27 @@
+  body {
+    background-color: lemonchiffon;
+  }
+
+  hr {
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 7px;
+    width: 5%
+  }
+  h1{
+    color: #66BFBF;
+  }
+
+  h3{
+    color: #66BFBF;
+  }
+
+a{
+  text-decoration-style: wavy;
+  color: navy;
+}
+
+.both{
+  text-decoration-line: underline overline;
+  text-decoration-style: wavy;
+}
